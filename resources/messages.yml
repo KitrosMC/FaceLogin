@@ -1,15 +1,10 @@
----
-# These are the messages that will be displayed to the right of
-# the player's face. Format:
-# line-number: message
-#
-# line-number must be an integer > 0 and < 9
-#
 # Magic constants:
-# {NAME} => Player's name
-#
+# {NAME} => 玩家名字
+# Mqsuit 是作者!!!
+# Mqsuit 是作者!!!
+# Mqsuit 是作者!!!
 messages:
   1: ""
-  2: "Hello {NAME}!"
-  3: "Welcome to face craft!"
+  2: "欢迎 {NAME}!"
+  3: "汉化By:NetherTechnology"
 ...
